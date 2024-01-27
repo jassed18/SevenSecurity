@@ -58,7 +58,7 @@ const NavBar = () => {
           : styles.navBar
       }
     >
-      {!navBarOpen && <p className={styles.logo}>SEVEN SECURITY SAS</p>}
+      {!navBarOpen && <p className={styles.logo}>SEVEN SECURITY SAS asfasfsadfsdafda</p>}
       {!navBarOpen && windowDimension.width < 800 ? (
         <AiOutlineMenu
           color="#f1f1f1"
